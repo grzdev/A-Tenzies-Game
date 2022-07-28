@@ -1,4 +1,4 @@
 A Tenzies Game
 
-View this game on your browser: [http://localhost:3000](http://localhost:3000) to view it in your browser.
+View this game on your browser: https://19zay.github.io/A-Tenzies-Game/
 

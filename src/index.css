@@ -5,6 +5,7 @@ body{
   justify-content: center;
   align-items: center;
   font-family: 'Karla' , sans-serif;
+  padding: 60px;
 }
 main{
   height: 380px;
